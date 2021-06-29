@@ -1,0 +1,20 @@
+ECS远程密码：873246
+微信平台密码：ef9830a0f0cbfbf216b357f23f3948aa
+
+子账户信息：
+账户名：bianyk@holystar.onaliyun.com
+登录密码：Bianyk123
+登录地址：https://signin.aliyun.com/holystar.onaliyun.com/login.htm
+ak:LTAI4G5kyPLpo6PJ5142in5P
+sk:fkC2gJy9F4SANSZdzGoSGIy0xQqWfS
+
+rds信息：
+地址：rm-2zeg78ps27980rx3e6o.mysql.rds.aliyuncs.com
+账户：hldbj
+密码：Holystar2020$
+ 
+poc
+AccessKey ID,AccessKey Secret
+LTAIDR6Za5R7y5VZ,hjtxuLZNOpDoh6jUeZ0sFnwsJe7WyW
+							
+
